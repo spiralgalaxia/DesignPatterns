@@ -1,0 +1,6 @@
+C:\Users\q4f65ywv\Documents\Visual Studio 2015\Projects\ConsoleApplication3\DecoratorDP\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\q4f65ywv\Documents\Visual Studio 2015\Projects\ConsoleApplication3\DecoratorDP\obj\Debug\ConsoleApplication3.exe
+C:\Users\q4f65ywv\Documents\Visual Studio 2015\Projects\ConsoleApplication3\DecoratorDP\obj\Debug\ConsoleApplication3.pdb
+C:\Users\q4f65ywv\Documents\Visual Studio 2015\Projects\ConsoleApplication3\DecoratorDP\bin\Debug\ConsoleApplication3.exe
+C:\Users\q4f65ywv\Documents\Visual Studio 2015\Projects\ConsoleApplication3\DecoratorDP\bin\Debug\ConsoleApplication3.pdb
+C:\Users\q4f65ywv\Documents\Visual Studio 2015\Projects\ConsoleApplication3\DecoratorDP\obj\Debug\DecoratorDP.csprojResolveAssemblyReference.cache
